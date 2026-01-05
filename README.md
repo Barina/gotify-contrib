@@ -33,6 +33,7 @@ Here you'll find community contributions to the Gotify project.
 - [elgonlabs/gotify-emailer](https://github.com/elgonlabs/gotify-emailer) A plugin for sending emails for incoming gotify/server messages.
 - [eternal-flame-AD/gotify-broadcast](https://github.com/eternal-flame-AD/gotify-broadcast) A plugin for message broadcasts to multiple users.
 - [eternal-flame-AD/gotify-webhook-misskey](https://github.com/eternal-flame-AD/gotify-webhook-misskey) A plugin for receiving notification from federated social networking platform [Misskey](https://github.com/misskey-dev/misskey) with multi-user support.
+- [lekoOwO/gotify2telegram](https://github.com/lekoOwO/gotify2telegram) A fork of [anhbh310/gotify2telegram](https://github.com/anhbh310/gotify2telegram) that lets you forward received messages to Telegram and/or Discord. Supports per-app settings, Telegram topics and more!
 - [LukasKnuth/gotify-slack-webhook](https://github.com/LukasKnuth/gotify-slack-webhook) A plugin to receive Slack Incoming Webhooks in Gotify.
 - [marceltransier/gotify-slack](https://github.com/marceltransier/gotify-slack) A plugin for Slack push notifications.
 - [MexHigh/Gotify-Postal-Webhooks-Plugin](https://github.com/MexHigh/Gotify-Postal-Webhooks-Plugin) A plugin for receiving and displaying webhooks from the [Postal mail delivery platform](https://github.com/postalserver/postal). Supports all message types.
@@ -71,6 +72,7 @@ Here you'll find community contributions to the Gotify project.
 - [Ondolin/gotify-matrix-bot](https://github.com/Ondolin/gotify-matrix-bot) A small tool to recive gotify messages in a matrix chat.
 - [ppacher/moziot-gotify-addon](https://github.com/ppacher/moziot-gotify-addon) A Mozilla WoT gateway addon to send notifications via `gotify`.
 - [rakshazi/desktop2gotify](https://gitlab.com/rakshazi/desktop2gotify) A desktop daemon/cli app that reads notifications from dbus and sends them to your gotify, matrix or webhook server
+- [RealZone22/ntfy2gotify](https://github.com/RealZone22/ntfy2gotify) A simple server that acts like a ntfy.sh endpoint but forward topics to Gotify instances.
 - [rorpage/gotify-chrome](https://github.com/rorpage/gotify-chrome) A Chrome extension for sending messages to `gotify/server`.
 - [schwma/gotify-push](https://github.com/schwma/gotify-push) A Python CLI for sending messages to `gotify/server`.
 - [sebw/pushtify](https://github.com/sebw/pushtify) Forward Gotify notifications to Pushover.
